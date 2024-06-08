@@ -1,4 +1,4 @@
-# filesin2zip   😮‍💨
+# filesin2zip   😚
 This is simple bat file that compresses folder data into zip format
 
  Certainly! Let's break down the batch file and its functionality:
